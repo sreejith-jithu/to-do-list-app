@@ -1,0 +1,28 @@
+@media (max-width:600px) {
+    .title{
+        font-size: 28px;
+    }
+    #date{
+        font-size: 20px;
+        margin-left: 10px;
+        margin-top: 5px;
+    }
+    .task button{
+        padding: 3px 5px;
+    }
+    #pending-task{
+        font-size: 13px;
+        
+    }
+    #add-btn{
+        max-height: 70px;
+        
+    }
+    #error{
+        font-size: 15px;
+        margin: 10px 10px;
+        height: 40px;
+        padding-top: 8px;
+    }
+    
+}
